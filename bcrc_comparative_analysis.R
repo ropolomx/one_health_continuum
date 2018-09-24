@@ -7,7 +7,7 @@
 ## cladeReads: using clade read counts
 
 ## Original author: Steven Lakin (Colorado State University)
-## Modified and adapted for BCRC comparative analysis by: Rodrigo Ortega Polo (University of Lethbridge/AAFC)
+## Modified, expanded, and adapted for BCRC comparative analysis by: Rodrigo Ortega Polo (University of Lethbridge/AAFC)
 
 ## The files you want to use for input to this (for the MEG group analyses)
 ## are the AMR_analytic_matrix.csv and kraken_analytic_matrix.csv.  The AMR
